@@ -1,9 +1,9 @@
 Welcome to our [KDD'22](https://kdd.org/kdd2022/) Tutorial, "Multimodal AutoML for Image, Text and Tabular Data".
 
 ##  Tutorial Date, Time, Location
-- **Date**: TBD
-- **Time**: TBD
-- **Location**: TBD
+- **Date**: August 14th, 2022
+- **Time**: Sun 9:00 am - 12:00 pm EST
+- **Location**: Room 204B, Walter E. Washington Convention Center
 
 
 ## Tutorial Abstract
