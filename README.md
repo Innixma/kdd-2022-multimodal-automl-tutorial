@@ -14,6 +14,8 @@ A major focus of our tutorial is on automatically building and training deep lea
 
 ## Tutorial Outline and Materials
 
+Slides is available for preview: [link](https://docs.google.com/presentation/d/10pmrQha7Jr-1sXebG5rPOq4qTPXqeIj-/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true).
+
 1. Tabular AutoML
     - AutoML Basics: Discussion of core AutoML principles and historical background (including early AutoML toolkits such as AutoWeka and auto-sklearn)
     - History of competition ML and how it influenced the design of modern AutoML systems
@@ -21,9 +23,11 @@ A major focus of our tutorial is on automatically building and training deep lea
     - Constraint satisfaction and engineering for a performance envelope (accuracy, speed, compute resources)
     - Benchmark comparisons showcasing the advancement of AutoML systems in recent years both compared to earlier AutoML systems and human data scientists (4 AutoML frameworks, 104 OpenML datasets, 10 Kaggle datasets)
 2. Multimodal AutoML
-    - Foundational models for image and text
     - Real-world multimodal problems (life beyond captioning images)
-    - Fusion techniques and multimodal distillation
+    - Foundational models for image and text
+    - Fusion techniques and other training tricks
+    - Model distillation
+    - Parameter-efficient finetuning
 3. Advanced Topics
     - Stack ensemble distillation
     - Semi-supervised AutoML
