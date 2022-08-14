@@ -17,7 +17,7 @@ A major focus of our tutorial is on automatically building and training deep lea
 Slides is available for preview: [link](https://docs.google.com/presentation/d/10pmrQha7Jr-1sXebG5rPOq4qTPXqeIj-/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true).
 
 1. Tabular AutoML
-    - AutoML Basics: Discussion of core AutoML principles and historical background (including early AutoML toolkits such as AutoWeka and auto-sklearn)
+    - AutoML Basics: Discussion of core AutoML principles
     - History of competition ML and how it influenced the design of modern AutoML systems
     - Discussion of model combination strategies (stacking, bagging, model aggregation)
     - Constraint satisfaction and engineering for a performance envelope (accuracy, speed, compute resources)
@@ -29,11 +29,9 @@ Slides is available for preview: [link](https://docs.google.com/presentation/d/1
     - Model distillation
     - Parameter-efficient finetuning
 3. Advanced Topics
-    - Stack ensemble distillation
-    - Semi-supervised AutoML
     - Dependent random variables (e.g., time series)
-    - Explainability and fairness (e.g., SHAP)
     - Exploratory data analysis (e.g., detecting distribution shift)
+    - Explainability and fairness (e.g., SHAP)
 
 ## Short Bio of Lecturers
 
