@@ -14,7 +14,9 @@ A major focus of our tutorial is on automatically building and training deep lea
 
 ## Tutorial Outline and Materials
 
-Slides is available for preview: [link](https://docs.google.com/presentation/d/10pmrQha7Jr-1sXebG5rPOq4qTPXqeIj-/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true).
+Slides are available for preview: [link](https://docs.google.com/presentation/d/10pmrQha7Jr-1sXebG5rPOq4qTPXqeIj-/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true).
+
+For more about AutoGluon, checkout our website at https://auto.gluon.ai .
 
 1. Tabular AutoML
     - AutoML Basics: Discussion of core AutoML principles
